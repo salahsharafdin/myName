@@ -1,0 +1,4 @@
+qoraal firstName = "Salah"
+door lastName = "Sharafdin"
+
+qor(firstName + " " lastName)
